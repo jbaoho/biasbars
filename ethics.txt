@@ -1,0 +1,48 @@
+Please write your response to the reflective ethics question here.
+
+1. In the more neutral words, the frequencies of reviews for the men and women are relatively the same. However, in more
+loaded words, there is a more pronounced difference in usage for reviews between men and women. Negative words such as
+rude, horrible, and bias/biased are associated with reviews pertaining to women, while more positive-loaded words such as
+funny, genius, and brilliant are associated with reviews for men. This is not always the case though, because other negatively
+loaded words such as sad and depressed were associated more/solely with men.
+More specifically, bias's frequencies for women in the low and high review categories are more than double the frequencies for men
+and the frequency for men in the medium review is 0 while it is 5 for women.
+Depressed's frequency is 0 for women across all review groups as well as for men in the medium review category, however,
+the word is seen in review's describing men in both the low and high review categories.
+Genius's frequency is 0 for women in the low review group and it is below 10 for both the other groups describing women.
+For men the frequency, even in the low group, is never 0 , and reaches above 60 in the high review group.
+
+2.
+    1. The summary statistics do not suggest bias in higher rating because 58% high for women and 59% high for men is
+    practically equivalent
+    2. Words including rude, horrible, bias, funny, genius, brilliant, depressed, and sad showed a gendered bias.
+
+3. I believe that the biases seen in the word frequencies indicate that it would be unfair to use these ratings to try
+and characterize a teacher's personality or teaching style in comparison to other teachers. It is evident that people
+use different words to describe teacher's of different genders and there are different expectations between genders, so
+when a teacher acts differently from their gender norm, they are praised/criticized more than a member of the opposite
+gender would be. For this reason, the data of word frequencies should not be used as a deciding factor regarding decisions
+pertaining to a teacher's career (fired, hired, promoted, etc.).
+
+4. The subjects in the dataset deserve to know of any bias/unequal representation in the word frequencies so that they
+are aware that the results are unfair and not always representative of the truth. As a programmer, you could show this
+to the participants by creating a list of words used to describe women more, and a similar list of words for men. This
+way the participants could look at these lists and be aware of the bias in the teacher descriptions where these words
+are used.
+
+5. If I were to redesign the ratings website, I would add additional categories for non-binary genders that would more
+accurately describe the participants. If possible, I would add an algorithm to cross-reference the gender inputted into
+the website to other credible sources that state their gender such as a school website, social media, etc. In this way
+the teachers would be more accurately described by the gender that they self define as and would not be constrained to
+binary gender classifications. While getting rid of the gender category would certainly be more ethical in some cases,
+I believe that this is not a good option because the whole point is to detect bias and gender is a huge field in which
+bias presents itself.
+
+6. Another problem relating to gendered patterns in language use relate to how people of different genders are described
+in every day language such as in tweets, social media posts, news articles, tabloids, etc. These patterns are important
+to notice because different offensive languages are used to describe different genders more often, so the people in those
+genders have become more desensitized to language that they should find offensive. To highlight this problem, the same word
+frequency bias-bars solution could be used to visualize offensive words used to describe different genders. By solving this
+problem people of all genders, especially from newer generations, would benefit by not being accepting of offensive language
+they have been convinced was normal, and more equalized/standardized language could be used to describe all people since
+all people are human even if they identify as different genders.
